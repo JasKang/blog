@@ -1,7 +1,18 @@
 # blog
 
 随便写写东西
-每周整理一下 碎片化的信息
+整理一下 碎片化的信息
+
+## Project
+
+- [rubic](https://github.com/jaskang/rubic) 基于 Vue3 的响应式小程序框架 (⭐️180+)
+  
+- [vite-plugin-markdown-preview](https://github.com/jaskang/vite-plugin-markdown-preview) 基于 vite/vitepress 的 markdown 代码块预览插件 (⭐️150+)
+  
+- [tailv](https://github.com/jaskang/tailv) 一个基于Vue.js和Tailwind CSS的UI组件库，用于快速构建现代Web应用程序 (WIP)
+
+- [unocss-preset-tailwindcss](https://github.com/jaskang/unocss-preset-tailwindcss)  与 tailwindcss 语法保持一致的相一致的 unocss 预设，强调一致性。 (WIP)
+
 
 ## Review
 
