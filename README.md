@@ -3,7 +3,7 @@
 随便写写东西
 整理一下 碎片化的信息
 
-## Project
+## 项目
 
 - [rubic](https://github.com/jaskang/rubic) 基于 Vue3 的响应式小程序框架 (⭐️180+)
   
@@ -14,11 +14,11 @@
 - [unocss-preset-tailwindcss](https://github.com/jaskang/unocss-preset-tailwindcss)  与 tailwindcss 语法保持一致的相一致的 unocss 预设，强调一致性。 (WIP)
 
 
-## Review
+## 总结
 
 [Review[2020]](https://github.com/JasKang/blog/issues/11)
 
-## 每周整理
+## 整理
 
 [每周整理[2019-07-27]](https://github.com/JasKang/blog/issues/3)
 
@@ -26,9 +26,9 @@
 
 ## 技术
 
-[[Vue3 等不及了系列] 剑指 JSX 一](https://github.com/JasKang/blog/issues/6)
+[[Vue3 等不及了系列剑指 JSX [2020-03-31]](https://github.com/JasKang/blog/issues/6)
 
-[@vue/cli3 中多页面启动路径的问题](https://github.com/JasKang/blog/issues/4)
+[@vue/cli3 中多页面启动路径的问题 [2019-07-23]](https://github.com/JasKang/blog/issues/4)
 
 ### 读书
 
