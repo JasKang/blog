@@ -26,7 +26,7 @@
 
 ## 技术
 
-[[Vue3 等不及了系列剑指 JSX [2020-03-31]](https://github.com/JasKang/blog/issues/6)
+[Vue3 等不及了系列剑指 JSX [2020-03-31]](https://github.com/JasKang/blog/issues/6)
 
 [@vue/cli3 中多页面启动路径的问题 [2019-07-23]](https://github.com/JasKang/blog/issues/4)
 
